@@ -4,3 +4,5 @@
 *.csv
 *.pyc
 *.json
+.project
+.pydevproject
